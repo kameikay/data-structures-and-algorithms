@@ -38,8 +38,6 @@ Go (or Golang) is a fantastic choice for studying data structures and algorithms
 
 3. **Take on Challenges:** Challenge yourself with coding exercises. Compare your solutions to the provided ones to gain insights and improve your skills.
 
-4. **Contribute:** Found a bug? Want to add an algorithm? Contributions are welcome! Check out the [Contributing](#contributing) section to learn how you can get involved.
-
 ## Resources 📚
 
 Looking for additional resources to deepen your knowledge? Check out our recommended reading list, online courses, and other helpful materials in the [Resources](resources.md) section.
