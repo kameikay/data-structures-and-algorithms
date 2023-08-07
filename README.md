@@ -10,7 +10,6 @@ Welcome to the **Data Structures and Algorithms in Go** repository! If you're pa
 - [Why Go?](#why-go)
 - [What's Inside?](#whats-inside)
 - [How to Use This Repository](#how-to-use-this-repository)
-- [Contributing](#contributing)
 - [Resources](#resources)
 - [License](#license)
 
