@@ -6,12 +6,12 @@ Welcome to the **Data Structures and Algorithms in Go** repository! If you're pa
 
 ## Table of Contents 📖
 
-- [Introduction](#introduction)
-- [Why Go?](#why-go)
-- [What's Inside?](#whats-inside)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Resources](#resources)
-- [License](#license)
+- [Introduction](#introduction-)
+- [Why Go?](#why-go-)
+- [What's Inside?](#whats-inside-)
+- [How to Use This Repository](#how-to-use-this-repository-)
+- [Resources](#resources-)
+- [License](#license-)
 
 ## Introduction 🌟
 
